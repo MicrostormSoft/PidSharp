@@ -10,8 +10,8 @@
     <Description>(P)roportional, (I)ntegral, (D)erivative Controller in C#</Description>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <PackageId>PidSharp</PackageId>
-    <PackageProjectUrl>https://github.com/developer-ken/PidSharp</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/developer-ken/PidSharp</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/MicrostormSoft/PidSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MicrostormSoft/PidSharp</RepositoryUrl>
     <PackageReleaseNotes>Pid Controller written in CSharp and runs on dotnet 5.</PackageReleaseNotes>
     <Version>1.0.0.1</Version>
   </PropertyGroup>
