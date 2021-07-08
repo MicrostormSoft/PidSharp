@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Developer_ken</Authors>
+    <Company>Microstorm</Company>
+    <Product>PidSharp.PidController</Product>
+    <Description>(P)roportional, (I)ntegral, (D)erivative Controller in C#</Description>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <PackageId>PidSharp</PackageId>
+    <PackageProjectUrl>https://github.com/developer-ken/PidSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/developer-ken/PidSharp</RepositoryUrl>
+    <PackageReleaseNotes>Pid Controller written in CSharp and runs on dotnet 5.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
