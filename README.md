@@ -1,11 +1,11 @@
 # PidSharp
 A pid controller written in CSharp and runs on dotnet 5.  
 PID控制器的C#实现，基于.net5运行环境  
-  
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c8157e147fe9417bbba078c268fc4c1c)](https://www.codacy.com/gh/MicrostormSoft/PidSharp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MicrostormSoft/PidSharp&amp;utm_campaign=Badge_Grade)
 [![NuGet version (PidSharp)](https://img.shields.io/nuget/v/PidSharp.svg?style=flat)](https://www.nuget.org/packages/PidSharp/)
 
-#### What is this?  是什么?  
+#### What is this  是什么
 
 PID算法是工业上常用的一种算法。理想情况下，调教完成的PID控制器接收实际值、目标值，然后传出控制量，该控制量可使得实际值接近或等于目标值。  
 例如，你正控制一个火炉的温度，则PID算法可以接收当前温度(实际值)，设定期望达到的温度(目标值)，传出所需的加热功率增量(控制量)。  
@@ -14,7 +14,7 @@ For example, say you are trying to maintain the temperature of an oven. PID take
 
 [WikiPedia - PID Controller](https://en.wikipedia.org/wiki/PID_controller)
 
-### How to use?  如何使用?
+### How to use  如何使用
 
 首先导入这个项目或者nuget包。  
 First import this project or nuget pack.  
