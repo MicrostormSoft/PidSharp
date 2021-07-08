@@ -15,10 +15,10 @@ For example, say you are trying to maintain the temperature of an oven. PID take
 
 ### How to use?  如何使用?
 
-首先导入这个项目或者nuget包。
+首先导入这个项目或者nuget包。  
 First import this project or nuget pack.  
 
-示例代码：
+示例代码：  
 See example code below:
 
 ```csharp
@@ -30,5 +30,5 @@ while(true){
 }
 ```
 
-**假设**PID=(1,1,1)是适合使用场景的参数，传感器读数`SomeSensor.Value`会在控制下逐渐接近目标值`controller.TargetValue`，也就是设定的10。
+**假设**PID=(1,1,1)是适合使用场景的参数，传感器读数`SomeSensor.Value`会在控制下逐渐接近目标值`controller.TargetValue`，也就是设定的10。  
 **If** PID=(1,1,1) is the proper value for the use case, `SomeSensor.Value` will get closer and closer to `controller.TargetValue` which is 10.  
