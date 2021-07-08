@@ -3,6 +3,7 @@ A pid controller written in CSharp and runs on dotnet 5.
 PID控制器的C#实现，基于.net5运行环境  
   
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c8157e147fe9417bbba078c268fc4c1c)](https://www.codacy.com/gh/MicrostormSoft/PidSharp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MicrostormSoft/PidSharp&amp;utm_campaign=Badge_Grade)
+[![NuGet version (PidSharp)](https://img.shields.io/nuget/v/PidSharp.svg?style=flat)](https://www.nuget.org/packages/PidSharp/)
 
 #### What is this?  是什么?  
 
