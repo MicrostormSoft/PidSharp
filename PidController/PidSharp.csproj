@@ -13,6 +13,7 @@
     <PackageProjectUrl>https://github.com/developer-ken/PidSharp</PackageProjectUrl>
     <RepositoryUrl>https://github.com/developer-ken/PidSharp</RepositoryUrl>
     <PackageReleaseNotes>Pid Controller written in CSharp and runs on dotnet 5.</PackageReleaseNotes>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
 </Project>
